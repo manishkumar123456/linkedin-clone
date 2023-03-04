@@ -1,2 +1,2 @@
 # linkedin-clone
-C:\Users\MANISH\Pictures\Screenshots
+  photo = "C:\Users\MANISH\Pictures\Screenshots"
