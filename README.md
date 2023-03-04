@@ -1,5 +1,8 @@
 # linkedin-clone
 
+ # techstack 
+  React js, Redux, Material ui icons and Firebase. 
+
 
 # output
 
