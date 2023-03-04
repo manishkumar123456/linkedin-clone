@@ -4,6 +4,8 @@
   React js, Redux, Material ui icons and Firebase. 
 
 
+Frontend is done ,  and working on  backend 
+
 # output
 
 
