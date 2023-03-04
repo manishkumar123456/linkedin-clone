@@ -1,6 +1,9 @@
 # linkedin-clone
-  photo = "C:\Users\MANISH\Pictures\Screenshots"
+
 
 # output
 
-![Screenshot (402)](https://user-images.githubusercontent.com/75328802/222884915-0f2081ad-faa8-4836-adeb-dc7a0573e283.png)
+
+
+
+![Screenshot (403)](https://user-images.githubusercontent.com/75328802/222884974-8257c724-0a0c-4ce6-bb4d-932f993ba152.png)
